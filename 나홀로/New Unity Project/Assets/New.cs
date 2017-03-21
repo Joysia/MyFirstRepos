@@ -5,6 +5,7 @@ public class New : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+	    /// /// ////
 	    /// /// //// 어이쿠
 	}
 	
